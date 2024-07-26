@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>Dead Rising Demo</fullTitle>
+    <fullDescription>Willamette, Colorado. One fateful day, this small town like any other was sealed off without warning. Whatever was happening there, it was big. Enter Frank West, freelance journalist. His instincts told him that there was a story waiting to be told in Willamette. Armed only with his trusty camera, he boarded a charter helicopter and headed into town. Through Frank's viewfinder, the town's streets, magnified by his telephoto lens, looked larger than life. He prepared himself to spend the next 72 hours in hell. In this demo, you can explore the Willamette Parkview Mall's Paradise Plaza. Do what you have to do to survive! THIS GAME WAS NOT DEVELOPED, APPROVED OR LICENSED BY THE OWNERS OR CREATORS OF GEORGE A. ROMERO'S DAWN OF THE DEAD™</fullDescription>
+    <globalOriginalReleaseDate>2006-08-04T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>CAPCOM</developerName>
+    <publisherName>CAPCOM</publisherName>
+    <gameCapabilities/>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/434307D6/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/434307D6/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/434307D6/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/434307D6/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows/>
+  </a:entry>
+</a:feed>
