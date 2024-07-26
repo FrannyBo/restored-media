@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>Microsoft™ Bingo</fullTitle>
+    <fullDescription>BINGO! Dust off your daubers. Microsoft Bingo is here! With a free-to-play, travel-themed take on a classic game, Bingo just got a whole lot better.</fullDescription>
+    <globalOriginalReleaseDate>2013-12-11T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Frima Studios</developerName>
+    <publisherName>Microsoft Studios</publisherName>
+    <gameCapabilities>
+      <onlineMultiplayerMin>1</onlineMultiplayerMin>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg1.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg2.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg3.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg4.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg5.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg6.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg7.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D531B90/screenlg8.jpg</fileUrl>
+        </image>
+      </slideshow>
+    </slideShows>
+  </a:entry>
+</a:feed>
