@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>F.E.A.R. 2: Reborn SP Demo</fullTitle>
+    <fullDescription>Download the demo today and get a taste of F.E.A.R. 2: Reborn, the latest FEAR 2 single-player DLC campaign! This all new single-player campaign lets you experience events in the full game from an all new perspective: that of Replica Soldier Foxtrot 813. Fight through brand new environments and uncover the paranormal secret surrounding your Replica Squad. Struggle to locate who is contradicting your direct orders from Replica Command; you just might recognize it’s a familiar face...</fullDescription>
+    <globalOriginalReleaseDate>2009-09-03T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Monolith Productions, Inc.</developerName>
+    <publisherName>Warner Bros.</publisherName>
+    <gameCapabilities/>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/575287F4/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/575287F4/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/575287F4/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/575287F4/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows/>
+  </a:entry>
+</a:feed>
