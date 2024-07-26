@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>Shrek the Third Demo</fullTitle>
+    <fullDescription>In this demo, play as Shrek and Puss in Boots as you embark with Donkey on this twisted fairytale adventure to save Far Far Away. Fight your way through the hilarious pirates and bandits that have taken over the docks, standing between you and finding the true heir to the kingdom.</fullDescription>
+    <globalOriginalReleaseDate>2010-4-23T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>7 Studios</developerName>
+    <publisherName>Activision</publisherName>
+    <gameCapabilities>
+      <onlineCoopPlayersMin>1</onlineCoopPlayersMin>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/415687FC/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/415687FC/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/415687FC/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/415687FC/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows/>
+  </a:entry>
+</a:feed>
