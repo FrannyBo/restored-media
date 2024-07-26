@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>End of Eternity™ t・A・B体験版 Demo</fullTitle>
+    <fullDescription>SEGA、tri-Aceによる完全新作のRPG「エンド オブ エタニティ」 銃を駆使して繰り広げられる ”戦略性”と”爽快感”を融合させた大迫力のバトル。 バトルシステム ｔ・A・Bバトルの体験版。 銃撃多重奏RPG、ここに開演。</fullDescription>
+    <globalOriginalReleaseDate>2009-12-15T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>tri-Ace Inc.</developerName>
+    <publisherName>SEGA</publisherName>
+    <gameCapabilities/>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5345883C/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5345883C/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5345883C/boxarlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5345883C/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows/>
+  </a:entry>
+</a:feed>
