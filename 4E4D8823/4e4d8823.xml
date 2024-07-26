@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>NARUTO Shippuden: Ultimate Ninja STORM 2 Demo</fullTitle>
+    <fullDescription>The NARUTO Ultimate Ninja series has sold over 6.5 million copies worldwide. We present a demo for the latest game in this hit series, NARUTO Shippuden: Ultimate Ninja Storm 2. Our concept is to combine video games and animation. The previous title in the series stretched the limited animation style popularized by Japanese anime to its limits. This game stretches it even further, successfully establishing a new standard in real-time CG animation. It's a cinemagraphic experience like none other, in which the player finds themselves controlling the action in an anime all their own. This demo includes the entire boss battle with Kakashi. We hope players will enjoy it.</fullDescription>
+    <globalOriginalReleaseDate>2010-08-24T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Cyber Connect 2 Co., Ltd.</developerName>
+    <publisherName>NAMCO BANDAI Games America Inc.</publisherName>
+    <gameCapabilities/>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4E4D8823/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4E4D8823/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4E4D8823/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4E4D8823/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows/>
+  </a:entry>
+</a:feed>
