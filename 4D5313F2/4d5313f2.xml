@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>Microsoft® Minesweeper</fullTitle>
+    <fullDescription>Top 5 Free Game in the Windows Store! Play the classic puzzle game that has been a part of Windows for more than 20 years, now re-imagined for Windows 8. Featuring adjustable difficulty, classic Minesweeper gameplay, and a brand new Adventure gameplay mode, Microsoft Minesweeper is better than ever. Play Daily Challenges, earn medals, and take your game online with Xbox achievements and leaderboards.</fullDescription>
+    <globalOriginalReleaseDate>2012-10-26T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Arkadium</developerName>
+    <publisherName>Microsoft® Studios</publisherName>
+    <gameCapabilities/>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg1.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg2.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg3.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg4.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg5.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg6.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg7.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg8.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg9.jpg</fileUrl>
+        </image>
+      </slideshow>
+      <slideshow>
+        <image>
+          <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/4D5313F2/screenlg10.jpg</fileUrl>
+        </image>
+      </slideshow>
+    </slideShows>
+  </a:entry>
+</a:feed>
