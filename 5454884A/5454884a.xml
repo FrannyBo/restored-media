@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>	MLB 2K9 Demo</fullTitle>
+    <fullDescription>Check out the Major League Baseball® 2K9 demo, available now for download. Put your skills to the test at Philadelphia’s Citizens Bank Park by playing three full innings as the Tampa Bay Rays or Philadelphia Phillies. The demo supports one or two players, local only, and features newly improved pitching, hitting, fielding and baserunning controls. Fans will also get previews of some stunning new Signature Style™ animations and the exciting new broadcast team, Gary Thorne and Steve Phillips. 2K Sports’ Major League Baseball 2K9 delivers the Major Leagues™ down to the minor details. Play Ball 3.3.09!</fullDescription>
+    <globalOriginalReleaseDate>2009-02-26T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Visual Concepts Entertainment</developerName>
+    <publisherName>2K Sports</publisherName>
+    <gameCapabilities>
+      <onlineCoopPlayersMin>1</onlineCoopPlayersMin>
+    </gameCapabilities>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5454884A/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5454884A/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5454884A/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/5454884A/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows/>
+  </a:entry>
+</a:feed>
