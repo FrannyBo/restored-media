@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<a:feed xmlns:a="http://www.w3.org/2005/Atom">
+  <a:entry xmlns:a="http://www.w3.org/2005/Atom" xmlns="http://marketplace.xboxlive.com/resource/product/v1" itemNum="1">
+    <fullTitle>Supreme Commander 2 Demo</fullTitle>
+    <fullDescription>This is Colonel Rodgers of the United Earth Federation. I need you to come in and clean up the mess left by those Cybran Chipheads and Illuminate fanatics! I'm ordering you to download the playable demo of SUPREME COMMANDER 2 and experience the award-winning real-time strategy game yourself. Fight the enemy on air, land, and sea, in spectacular environments on different planets. SUPREME COMMANDER 2 has everything you demand in an RTS: over-the-top experimental units, in-depth strategy, fast action, 4-player multiplayer, revolutionary controls, and more. There is only one true real-time strategy game, soldier, and that game is SUPREME COMMANDER 2. Download it today. Colonel Rodgers out.</fullDescription>
+    <globalOriginalReleaseDate>2010-04-8T00:00:00</globalOriginalReleaseDate>
+    <ratingId>30</ratingId>
+    <ratingDescriptors>
+      <ratingDescriptor level="1.0000">2</ratingDescriptor>
+      <ratingDescriptor level="1.0000">12</ratingDescriptor>
+      <ratingDescriptor level="1.0000">26</ratingDescriptor>
+      <ratingDescriptor level="1.0000">31</ratingDescriptor>
+    </ratingDescriptors>
+    <developerName>Gas Powered Games</developerName>
+    <publisherName>Square Enix</publisherName>
+    <gameCapabilities/>
+    <images>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/535187F7/tile.png</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/535187F7/background.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/535187F7/boxartlg.jpg</fileUrl>
+      </image>
+      <image>
+        <fileUrl>https://raw.githubusercontent.com/wildmaster84/restored-media/main/535187F7/banner.png</fileUrl>
+      </image>
+    </images>
+    <slideShows/>
+  </a:entry>
+</a:feed>
